@@ -1,4 +1,4 @@
-#Exercise-06b-Animation
+## Exercise-06b-Animation
 
 Exercise for MSCH-C220
 
